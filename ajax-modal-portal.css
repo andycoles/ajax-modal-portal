@@ -1,0 +1,12 @@
+/* line 4, ajax-modal-portal.scss */
+.amp-modal {
+  background-color: #fff;
+  position: absolute;
+  border-radius: 5px;
+  webkit-border-radius: 5px;
+  top: 20%;
+  width: 400px;
+  margin-left: -200px;
+  left: 50%;
+  display: block;
+}

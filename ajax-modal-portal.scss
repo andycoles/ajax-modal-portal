@@ -1,0 +1,14 @@
+//default plugin styles
+//move styles to sass modules
+//then remove css enqueue from plugin
+.amp-modal {
+  background-color: #fff;
+  position: absolute;
+  border-radius: 5px;
+  webkit-border-radius: 5px;
+  top: 20%;
+  width: 400px;
+  margin-left: -200px;
+  left: 50%;
+  display: block;
+}
