@@ -3,11 +3,9 @@ error_reporting(E_ALL);
 ini_set('display_errors', '1');
 /*
  * Plugin Name: Ajax Modal Portal
- * Plugin URI: http://fusi.io
  * Description: User registration and login modal style portal, powered by Ajax. This is a popup style user login, registration, lost password modal style login that does not require the page to refresh at any time during the user flow.
  * Author: Andy Coles
  * Version: 1.0
- * Author URI: http://andycoles.com
  * Tags: Login, Ajax, Registration, Modal, Portal
  */
 
